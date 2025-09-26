@@ -1,6 +1,6 @@
 # IELTS Institute Homepage
 ---
-## 🚀 Setup Instructions
+## Setup Instructions
 
 1. Clone this repository:
    ```bash

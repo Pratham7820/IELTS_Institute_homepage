@@ -9,7 +9,7 @@
    npm install
    npm run dev
 
-## Design Choices (Sample Note)
+## Design Choices
 
 - Modern & Minimal Layout – I used a clean white background with blue as the primary color to keep the design professional and aligned with an academic brand.
 
